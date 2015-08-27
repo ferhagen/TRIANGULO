@@ -1,0 +1,8 @@
+# TRIANGULO
+//tamaño del proyecto
+size(500,500);
+background(0,0,0);
+//quitar linea de contorno
+noStroke ();
+//crear triangulo
+triangle(250,40,50,360,450,360);
